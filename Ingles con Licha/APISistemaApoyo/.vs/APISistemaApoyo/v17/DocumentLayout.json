@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1033F3-BBAA-4FC9-A82A-DD08869EE780}|WebApiApoyo\\WebApiApoyo.csproj|c:\\users\\usuario\\documents\\github\\desarrollo-de-software\\apisistemaapoyo\\webapiapoyo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD1033F3-BBAA-4FC9-A82A-DD08869EE780}|WebApiApoyo\\WebApiApoyo.csproj|solutionrelative:webapiapoyo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C332F1-56F5-4D50-B82E-9AFDF3C33349}|SistemaApoyo.DAL\\SistemaApoyo.DAL.csproj|c:\\users\\usuario\\documents\\github\\desarrollo-de-software\\apisistemaapoyo\\sistemaapoyo.dal\\repositorios\\contrato\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C332F1-56F5-4D50-B82E-9AFDF3C33349}|SistemaApoyo.DAL\\SistemaApoyo.DAL.csproj|solutionrelative:sistemaapoyo.dal\\repositorios\\contrato\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C332F1-56F5-4D50-B82E-9AFDF3C33349}|SistemaApoyo.DAL\\SistemaApoyo.DAL.csproj|c:\\users\\usuario\\documents\\github\\desarrollo-de-software\\apisistemaapoyo\\sistemaapoyo.dal\\repositorios\\contrato\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C332F1-56F5-4D50-B82E-9AFDF3C33349}|SistemaApoyo.DAL\\SistemaApoyo.DAL.csproj|solutionrelative:sistemaapoyo.dal\\repositorios\\contrato\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FBA5A1-B2EC-40FD-83A7-7B3BAFC0AAE9}|SistemaApoyo.BLL\\SistemaApoyo.BLL.csproj|c:\\users\\usuario\\documents\\github\\desarrollo-de-software\\apisistemaapoyo\\sistemaapoyo.bll\\servicios\\contrato\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FBA5A1-B2EC-40FD-83A7-7B3BAFC0AAE9}|SistemaApoyo.BLL\\SistemaApoyo.BLL.csproj|solutionrelative:sistemaapoyo.bll\\servicios\\contrato\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FBA5A1-B2EC-40FD-83A7-7B3BAFC0AAE9}|SistemaApoyo.BLL\\SistemaApoyo.BLL.csproj|c:\\users\\usuario\\documents\\github\\desarrollo-de-software\\apisistemaapoyo\\sistemaapoyo.bll\\servicios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FBA5A1-B2EC-40FD-83A7-7B3BAFC0AAE9}|SistemaApoyo.BLL\\SistemaApoyo.BLL.csproj|solutionrelative:sistemaapoyo.bll\\servicios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FBA5A1-B2EC-40FD-83A7-7B3BAFC0AAE9}|SistemaApoyo.BLL\\SistemaApoyo.BLL.csproj|c:\\users\\usuario\\documents\\github\\desarrollo-de-software\\apisistemaapoyo\\sistemaapoyo.bll\\servicios\\respuestaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FBA5A1-B2EC-40FD-83A7-7B3BAFC0AAE9}|SistemaApoyo.BLL\\SistemaApoyo.BLL.csproj|solutionrelative:sistemaapoyo.bll\\servicios\\respuestaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE01D784-12AF-4AC9-83F8-054CE9B1B833}|SistemaApoyo.Model\\SistemaApoyo.Model.csproj|c:\\users\\usuario\\documents\\github\\desarrollo-de-software\\apisistemaapoyo\\sistemaapoyo.model\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE01D784-12AF-4AC9-83F8-054CE9B1B833}|SistemaApoyo.Model\\SistemaApoyo.Model.csproj|solutionrelative:sistemaapoyo.model\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FBA5A1-B2EC-40FD-83A7-7B3BAFC0AAE9}|SistemaApoyo.BLL\\SistemaApoyo.BLL.csproj|c:\\users\\usuario\\documents\\github\\desarrollo-de-software\\apisistemaapoyo\\sistemaapoyo.bll\\servicios\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FBA5A1-B2EC-40FD-83A7-7B3BAFC0AAE9}|SistemaApoyo.BLL\\SistemaApoyo.BLL.csproj|solutionrelative:sistemaapoyo.bll\\servicios\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FBA5A1-B2EC-40FD-83A7-7B3BAFC0AAE9}|SistemaApoyo.BLL\\SistemaApoyo.BLL.csproj|c:\\users\\usuario\\documents\\github\\desarrollo-de-software\\apisistemaapoyo\\sistemaapoyo.bll\\servicios\\consultaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FBA5A1-B2EC-40FD-83A7-7B3BAFC0AAE9}|SistemaApoyo.BLL\\SistemaApoyo.BLL.csproj|solutionrelative:sistemaapoyo.bll\\servicios\\consultaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C332F1-56F5-4D50-B82E-9AFDF3C33349}|SistemaApoyo.DAL\\SistemaApoyo.DAL.csproj|c:\\users\\usuario\\documents\\github\\desarrollo-de-software\\apisistemaapoyo\\sistemaapoyo.dal\\dbcontext\\s31grupo2aprendizajeyapoyodeinglescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C332F1-56F5-4D50-B82E-9AFDF3C33349}|SistemaApoyo.DAL\\SistemaApoyo.DAL.csproj|solutionrelative:sistemaapoyo.dal\\dbcontext\\s31grupo2aprendizajeyapoyodeinglescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1033F3-BBAA-4FC9-A82A-DD08869EE780}|WebApiApoyo\\WebApiApoyo.csproj|c:\\users\\usuario\\documents\\github\\desarrollo-de-software\\apisistemaapoyo\\webapiapoyo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1033F3-BBAA-4FC9-A82A-DD08869EE780}|WebApiApoyo\\WebApiApoyo.csproj|solutionrelative:webapiapoyo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B98C71-F23C-4FF6-91AD-5DDF75A50234}|Sistema Apoyo.IOC\\Sistema Apoyo.IOC.csproj|c:\\users\\usuario\\documents\\github\\desarrollo-de-software\\apisistemaapoyo\\sistema apoyo.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B98C71-F23C-4FF6-91AD-5DDF75A50234}|Sistema Apoyo.IOC\\Sistema Apoyo.IOC.csproj|solutionrelative:sistema apoyo.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73FBA5A1-B2EC-40FD-83A7-7B3BAFC0AAE9}|SistemaApoyo.BLL\\SistemaApoyo.BLL.csproj|c:\\users\\usuario\\documents\\github\\desarrollo-de-software\\apisistemaapoyo\\sistemaapoyo.bll\\servicios\\foroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73FBA5A1-B2EC-40FD-83A7-7B3BAFC0AAE9}|SistemaApoyo.BLL\\SistemaApoyo.BLL.csproj|solutionrelative:sistemaapoyo.bll\\servicios\\foroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1033F3-BBAA-4FC9-A82A-DD08869EE780}|WebApiApoyo\\WebApiApoyo.csproj|c:\\users\\usuario\\documents\\github\\desarrollo-de-software\\apisistemaapoyo\\webapiapoyo\\controllers\\usuarios\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1033F3-BBAA-4FC9-A82A-DD08869EE780}|WebApiApoyo\\WebApiApoyo.csproj|solutionrelative:webapiapoyo\\controllers\\usuarios\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9460B94E-E91D-42F2-9955-16CC6B649E6F}|SistemaApoyo.Utility\\SistemaApoyo.Utility.csproj|c:\\users\\usuario\\documents\\github\\desarrollo-de-software\\apisistemaapoyo\\sistemaapoyo.utility\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9460B94E-E91D-42F2-9955-16CC6B649E6F}|SistemaApoyo.Utility\\SistemaApoyo.Utility.csproj|solutionrelative:sistemaapoyo.utility\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68C8A65-928A-4797-A7DF-CD66815A4F1C}|SistemaApoyo.DTO\\SistemaApoyo.DTO.csproj|c:\\users\\usuario\\documents\\github\\desarrollo-de-software\\apisistemaapoyo\\sistemaapoyo.dto\\roldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68C8A65-928A-4797-A7DF-CD66815A4F1C}|SistemaApoyo.DTO\\SistemaApoyo.DTO.csproj|solutionrelative:sistemaapoyo.dto\\roldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1033F3-BBAA-4FC9-A82A-DD08869EE780}|WebApiApoyo\\WebApiApoyo.csproj|c:\\users\\usuario\\documents\\github\\desarrollo-de-software\\apisistemaapoyo\\webapiapoyo\\utilidad\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1033F3-BBAA-4FC9-A82A-DD08869EE780}|WebApiApoyo\\WebApiApoyo.csproj|solutionrelative:webapiapoyo\\utilidad\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD1033F3-BBAA-4FC9-A82A-DD08869EE780}|WebApiApoyo\\WebApiApoyo.csproj|c:\\users\\usuario\\documents\\github\\desarrollo-de-software\\apisistemaapoyo\\webapiapoyo\\controllers\\usuarios\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD1033F3-BBAA-4FC9-A82A-DD08869EE780}|WebApiApoyo\\WebApiApoyo.csproj|solutionrelative:webapiapoyo\\controllers\\usuarios\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "S31Grupo2AprendizajeYApoyoDeInglesContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\SistemaApoyo.DAL\\DBContext\\S31Grupo2AprendizajeYApoyoDeInglesContext.cs",
+              "RelativeDocumentMoniker": "SistemaApoyo.DAL\\DBContext\\S31Grupo2AprendizajeYApoyoDeInglesContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\SistemaApoyo.DAL\\DBContext\\S31Grupo2AprendizajeYApoyoDeInglesContext.cs",
+              "RelativeToolTip": "SistemaApoyo.DAL\\DBContext\\S31Grupo2AprendizajeYApoyoDeInglesContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:21:44.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsultaService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\SistemaApoyo.BLL\\Servicios\\ConsultaService.cs",
+              "RelativeDocumentMoniker": "SistemaApoyo.BLL\\Servicios\\ConsultaService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\SistemaApoyo.BLL\\Servicios\\ConsultaService.cs",
+              "RelativeToolTip": "SistemaApoyo.BLL\\Servicios\\ConsultaService.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAhwGEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:18:07.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ForoService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\SistemaApoyo.BLL\\Servicios\\ForoService.cs",
+              "RelativeDocumentMoniker": "SistemaApoyo.BLL\\Servicios\\ForoService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\SistemaApoyo.BLL\\Servicios\\ForoService.cs",
+              "RelativeToolTip": "SistemaApoyo.BLL\\Servicios\\ForoService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAIA5wFEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:17:47.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\WebApiApoyo\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiApoyo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\WebApiApoyo\\appsettings.json",
+              "RelativeToolTip": "WebApiApoyo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T00:10:28.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dependencia.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\Sistema Apoyo.IOC\\Dependencia.cs",
+              "RelativeDocumentMoniker": "Sistema Apoyo.IOC\\Dependencia.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\Sistema Apoyo.IOC\\Dependencia.cs",
+              "RelativeToolTip": "Sistema Apoyo.IOC\\Dependencia.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwCYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:08:16.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\WebApiApoyo\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiApoyo\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\WebApiApoyo\\Program.cs",
+              "RelativeToolTip": "WebApiApoyo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:03:07.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\SistemaApoyo.Utility\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "SistemaApoyo.Utility\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\SistemaApoyo.Utility\\AutoMapperProfile.cs",
+              "RelativeToolTip": "SistemaApoyo.Utility\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwDsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:55:24.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RolDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\SistemaApoyo.DTO\\RolDTO.cs",
+              "RelativeDocumentMoniker": "SistemaApoyo.DTO\\RolDTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\SistemaApoyo.DTO\\RolDTO.cs",
+              "RelativeToolTip": "SistemaApoyo.DTO\\RolDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:55:05.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RolController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\WebApiApoyo\\Controllers\\Usuarios\\RolController.cs",
+              "RelativeDocumentMoniker": "WebApiApoyo\\Controllers\\Usuarios\\RolController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\WebApiApoyo\\Controllers\\Usuarios\\RolController.cs",
+              "RelativeToolTip": "WebApiApoyo\\Controllers\\Usuarios\\RolController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:47:19.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\WebApiApoyo\\Utilidad\\Response.cs",
+              "RelativeDocumentMoniker": "WebApiApoyo\\Utilidad\\Response.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\WebApiApoyo\\Utilidad\\Response.cs",
+              "RelativeToolTip": "WebApiApoyo\\Utilidad\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:45:38.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RespuestaService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\SistemaApoyo.BLL\\Servicios\\RespuestaService.cs",
+              "RelativeDocumentMoniker": "SistemaApoyo.BLL\\Servicios\\RespuestaService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\SistemaApoyo.BLL\\Servicios\\RespuestaService.cs",
+              "RelativeToolTip": "SistemaApoyo.BLL\\Servicios\\RespuestaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:44:11.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RolService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\SistemaApoyo.BLL\\Servicios\\RolService.cs",
+              "RelativeDocumentMoniker": "SistemaApoyo.BLL\\Servicios\\RolService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\SistemaApoyo.BLL\\Servicios\\RolService.cs",
+              "RelativeToolTip": "SistemaApoyo.BLL\\Servicios\\RolService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:32:59.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\SistemaApoyo.Model\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "SistemaApoyo.Model\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\SistemaApoyo.Model\\Models\\Usuario.cs",
+              "RelativeToolTip": "SistemaApoyo.Model\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:32:47.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\SistemaApoyo.DAL\\Repositorios\\Contrato\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "SistemaApoyo.DAL\\Repositorios\\Contrato\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\SistemaApoyo.DAL\\Repositorios\\Contrato\\IGenericRepository.cs",
+              "RelativeToolTip": "SistemaApoyo.DAL\\Repositorios\\Contrato\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:31:30.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\SistemaApoyo.DAL\\Repositorios\\Contrato\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "SistemaApoyo.DAL\\Repositorios\\Contrato\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\SistemaApoyo.DAL\\Repositorios\\Contrato\\GenericRepository.cs",
+              "RelativeToolTip": "SistemaApoyo.DAL\\Repositorios\\Contrato\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:29:55.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\SistemaApoyo.BLL\\Servicios\\Contrato\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "SistemaApoyo.BLL\\Servicios\\Contrato\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\SistemaApoyo.BLL\\Servicios\\Contrato\\IUsuarioService.cs",
+              "RelativeToolTip": "SistemaApoyo.BLL\\Servicios\\Contrato\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:58:24.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\SistemaApoyo.BLL\\Servicios\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "SistemaApoyo.BLL\\Servicios\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\SistemaApoyo.BLL\\Servicios\\UsuarioService.cs",
+              "RelativeToolTip": "SistemaApoyo.BLL\\Servicios\\UsuarioService.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAH8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:57:04.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\WebApiApoyo\\Controllers\\Usuarios\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "WebApiApoyo\\Controllers\\Usuarios\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\Desarrollo-de-Software\\APISistemaApoyo\\WebApiApoyo\\Controllers\\Usuarios\\UsuarioController.cs",
+              "RelativeToolTip": "WebApiApoyo\\Controllers\\Usuarios\\UsuarioController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAkwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:55:51.846Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SistemaApoyo.DTO
+{
+    public class RespuestaDTO
+    {
+        public int Idrespuesta { get; set; }
+
+        public string Contenido { get; set; } = null!;
+
+        public DateOnly Fecha { get; set; }
+
+        public DateTimeOffset Hora { get; set; }
+
+        public int Idconsulta { get; set; }
+
+        public int Idusuario { get; set; }
+
+    }
+}
